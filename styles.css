@@ -1,0 +1,37 @@
+/*************TAG SELECTORS ***********/
+body {
+  margin: 0;
+  background-color:#B1D7B4;
+}
+
+h1{
+  margin-top: 0;
+  color: #AEBDCA;
+}
+
+
+/*************CLASS SELECTORS***********/
+.homebar-container{
+  background-color: #AEBDCA;
+}
+
+.intro-container{
+  text-align: center;
+  background-color: #B1D7B4;
+  font-family: 'Merriweather', serif;
+}
+
+.aboutme-container{
+  background-color: #F5EFE6;
+}
+
+.project-container{
+  background-color: #7895B2;
+  weight: 200px
+  height: 200px
+}
+
+.contact-container{
+  background-color: #E8DFCA;
+}
+/*************ID SELECTORS***********/
